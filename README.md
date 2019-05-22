@@ -11,4 +11,4 @@
 [新技能](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD)  
   [学会使用github](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD/学会使用github)  
 [新灵感](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F)  
-  [用github记录灵感的优点](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F/元：用github记录灵感的优点)
+  [元：用github记录灵感的优点](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F/元：用github记录灵感的优点)
