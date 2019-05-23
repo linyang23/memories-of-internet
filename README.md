@@ -10,5 +10,7 @@
   [前端 后端 全栈概念辨析](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E5%89%8D%E7%AB%AF%20%E5%90%8E%E7%AB%AF%20%E5%85%A8%E6%A0%88%E6%A6%82%E5%BF%B5%E8%BE%A8%E6%9E%90.md)  
 [新技能](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD)  
   [学会使用github](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD/学会使用github)  
-[新灵感](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F)  
+  [学会写论文](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E5%86%99%E8%AE%BA%E6%96%87)  
+  [学会美化电脑桌面](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E7%BE%8E%E5%8C%96%E7%94%B5%E8%84%91%E6%A1%8C%E9%9D%A2)  
+  [新灵感](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F)  
   [元：用github记录灵感的优点](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F/元：用github记录灵感的优点)
