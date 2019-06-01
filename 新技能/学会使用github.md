@@ -29,3 +29,5 @@
 
 引用（所有要引用的句子前加>）
 >引用
+
+6.markdown更多的语法详细见网页[Markdown 基本语法。](https://github.com/younghz/Markdown)
