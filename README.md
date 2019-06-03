@@ -15,3 +15,5 @@
   [学会美化电脑桌面](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E7%BE%8E%E5%8C%96%E7%94%B5%E8%84%91%E6%A1%8C%E9%9D%A2)  
 #### [新灵感](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F)  
   [元：用github记录灵感的优点](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%81%B5%E6%84%9F/%E5%85%83%EF%BC%9A%E7%94%A8github%E8%AE%B0%E5%BD%95%E7%81%B5%E6%84%9F%E7%9A%84%E4%BC%98%E7%82%B9)
+#### [新笔记](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%AC%94%E8%AE%B0)
+  [the economist 20190525](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%AC%94%E8%AE%B0/The%20Economist/20190525.md)
