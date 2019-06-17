@@ -21,4 +21,5 @@
 #### [新笔记](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%AC%94%E8%AE%B0)
   [the economist 20190525 the great jobs boom](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%AC%94%E8%AE%B0/The%20Economist/20190525.md)  
   [the economist 20190601 the next to blow](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%AC%94%E8%AE%B0/The%20Economist/20190601.md)  
+  [the economist 20190615 hong kong](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%AC%94%E8%AE%B0/The%20Economist/20190615.md)  
   [《存在主义心理治疗》](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E7%AC%94%E8%AE%B0/%E4%B9%A6%E7%B1%8D/%E3%80%8A%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E3%80%8B.md)
