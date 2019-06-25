@@ -1,7 +1,7 @@
 <center>1.为了能够让我的github日程像大佬们一样全绿般舒服，于是这里就变成了我的日常刷绿色格子的地方了。</center>  
 <center>2.这个“刷格子”计划从2019.5.22开始，希望能对自己有所监督</center>。  
 <center>3.在这里记录下自己的成长道路：学会了什么新技能，得知了什么新信息，获得了什么新灵感，发生了什么新的有趣的事情，etc...</center>
-
+<center>这一行需要居中</center>
 ### 目录  
 #### [新事情](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E4%BA%8B%E6%83%85)  
   [华为与美国禁令](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E4%BA%8B%E6%83%85/%E5%8D%8E%E4%B8%BA%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4)  
