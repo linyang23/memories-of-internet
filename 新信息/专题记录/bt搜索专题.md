@@ -24,7 +24,7 @@
 ###### [`btkitty`](http://btkitty.fyi)
 ###### [`torrentkitty`](https://www.torrentkitty.tv/search/)
 ###### [✌BT磁力搜索引擎索引](https://hao.su/909/)
-###### [`Nyaa Torrents 18+`](https://sukebei.nyaa.si/)
+###### [✌`Nyaa Torrents 18+`](https://sukebei.nyaa.si/)
 ###### [`橘子搜索` :内容很全推荐](http://www.juzisousuo.com)
 ###### [`bt177` :很赞,广告少就是爽](http://www.bt177.info)
 ###### [`mp4ba` :老牌高清电影种子发布站](http://www.mp4ba.com)
