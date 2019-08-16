@@ -18,7 +18,8 @@
   |[20190708-20190714](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190708-20190714.md)|[20190715-20190721](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190715-20190721.md)|[20190722-20190728](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190722-20190728.md)|[20190729-20190804](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190729-20190804.md)|[20190805-20190811](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190805-20190811.md)|  
   |[20190812-20190814](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190812-20190814.md)|   |[20190815-20190821](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E6%AF%8F%E5%91%A8%E8%AE%B0%E5%BD%95/20190815-20190821.md)|
 #### 资源集中转发专题版（于2019.8.16开始）
-
+ |[bt搜索专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/bt%E6%90%9C%E7%B4%A2%E4%B8%93%E9%A2%98.md)|  |  |  |  |
+  |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 #### [新技能](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD)  
   [学会使用github](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8github.md)  
   [学会写论文](https://github.com/linyang23/hello-world/blob/master/%E6%96%B0%E6%8A%80%E8%83%BD/%E5%AD%A6%E4%BC%9A%E5%86%99%E8%AE%BA%E6%96%87)  
