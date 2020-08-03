@@ -5,7 +5,7 @@
 |3.在这里记录下自己的成长道路：学会了什么新技能，得知了什么新信息，获得了什么新灵感，发生了什么新的有趣的事情...|
 |4.记录互联网的影子，比如微博的热点话题，b站的专栏排行榜，知乎热榜等（此模块终止于2019.8.15）  |
 |5.转发在其他分享资源的自媒体上分享的各种资源和信息（此模块启动于2019.8.15，终止于2020.2.26），etc...|
-|6.记录每日热点新闻，源为即刻app用户"[小黄鸡_今日头条新闻]()"，etc..|
+|6.记录每日热点新闻，源为即刻app用户"[小黄鸡_今日头条新闻](https://github.com/linyang23/memories-of-internet/blob/master/images/%E5%8D%B3%E5%88%BB%E2%80%9C%E5%B0%8F%E9%BB%84%E9%B8%A1%E2%80%9D.jpeg)"，etc..|
 
 ### 目录
   |[新事情](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E4%BA%8B%E6%83%85)|[新信息](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E4%BF%A1%E6%81%AF)|[新技能](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E6%8A%80%E8%83%BD)|[新灵感](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%81%B5%E6%84%9F)|[新笔记](https://github.com/linyang23/hello-world/tree/master/%E6%96%B0%E7%AC%94%E8%AE%B0)|
@@ -20,7 +20,7 @@
  |:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
   |[202008](https://github.com/linyang23/memories-of-internet/tree/master/News/202008)|[202009](https://github.com/linyang23/memories-of-internet/tree/master/News/202009)|[202010](https://github.com/linyang23/memories-of-internet/tree/master/News/202010)|[202011](https://github.com/linyang23/memories-of-internet/tree/master/News/202011)|[202012](https://github.com/linyang23/memories-of-internet/tree/master/News/202012)|
 #### ~~资源集中转发时间版~~（于2019.8.15开始,2020.2.26中止，准备开始新的项目）
-#### ~~互联网的影子~~
+#### ~~互联网的影子~~(于2019.8.15中止)
 (在github看到一个已经实现了自动化的好项目，关注互联网热榜的同学可以关注->[tophubs/TopList](https://github.com/tophubs/TopList/))
 
   |🐞|🐌|🐙|🐚|🐠|
