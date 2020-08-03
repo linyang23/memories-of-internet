@@ -8,7 +8,7 @@
 |6.记录每日热点新闻，源为即刻app用户"[小黄鸡_今日头条新闻](https://github.com/linyang23/memories-of-internet/blob/master/images/%E5%8D%B3%E5%88%BB%E2%80%9C%E5%B0%8F%E9%BB%84%E9%B8%A1%E2%80%9D.jpeg)"（此模块启动于2020.08.03），etc..|
  ----------------------
 #### News  
-  |🐞|🐌|🐙|🐚|🐠|
+  |🍏|🍐|🍌|🍉|🍓|
  |:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
   |[202008](https://github.com/linyang23/memories-of-internet/tree/master/News/202008)|[202009](https://github.com/linyang23/memories-of-internet/tree/master/News/202009)|[202010](https://github.com/linyang23/memories-of-internet/tree/master/News/202010)|[202011](https://github.com/linyang23/memories-of-internet/tree/master/News/202011)|[202012](https://github.com/linyang23/memories-of-internet/tree/master/News/202012)|
 ----------------------
