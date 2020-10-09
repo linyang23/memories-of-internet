@@ -18,9 +18,9 @@
   |[202008](https://github.com/linyang23/memories-of-internet/tree/master/News/202008)|[202009](https://github.com/linyang23/memories-of-internet/tree/master/News/202009)|[202010](https://github.com/linyang23/memories-of-internet/tree/master/News/202010)|[202011](https://github.com/linyang23/memories-of-internet/tree/master/News/202011)|[202012](https://github.com/linyang23/memories-of-internet/tree/master/News/202012)|
   ----------------------
 #### ~~资源集中转发专题版~~（于2019.8.16开始,2020.2.26中止，准备开始新的项目）
-  |🐧|🐦|🐣|🐔|🐝|
-  |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-   |[`bt搜索`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/bt%E6%90%9C%E7%B4%A2%E4%B8%93%E9%A2%98.md)|[`文献、书籍下载`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/%E6%96%87%E7%8C%AE%E4%B8%8B%E8%BD%BD%E4%B8%93%E9%A2%98.md)|[`矢量素材`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/%E7%9F%A2%E9%87%8F%E7%B4%A0%E6%9D%90%E4%B8%93%E9%A2%98.md)|  |  |
+  |🐧|🐦|🐣|
+  |-----------------------|-----------------------|-----------------------|
+   |[`bt搜索`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/bt%E6%90%9C%E7%B4%A2%E4%B8%93%E9%A2%98.md)|[`文献、书籍下载`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/%E6%96%87%E7%8C%AE%E4%B8%8B%E8%BD%BD%E4%B8%93%E9%A2%98.md)|[`矢量素材`专题](https://github.com/linyang23/memories-of-internet/blob/master/%E6%96%B0%E4%BF%A1%E6%81%AF/%E4%B8%93%E9%A2%98%E8%AE%B0%E5%BD%95/%E7%9F%A2%E9%87%8F%E7%B4%A0%E6%9D%90%E4%B8%93%E9%A2%98.md)|
 ----------------------  
 #### ~~互联网的影子~~(于2019.8.15中止)
 (在github看到一个已经实现了自动化的好项目，关注互联网热榜的同学可以关注->[tophubs/TopList](https://github.com/tophubs/TopList/))
