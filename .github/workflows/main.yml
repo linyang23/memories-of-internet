@@ -28,13 +28,14 @@ jobs:
 #       - name: Run a one-line script
 #         run: echo Hello, world!
 
-      - name: Set up Python 3.6.10
+      - name: Set up Python 3.6.15
         uses: actions/setup-python@v1
         with:
           python-version: 3.6.15
       - name: run python
         run: |
           cd Code
+          pip install re time requests BeautifulSoup datetime
           python wbspd.py
       - name: commit
         run: |
