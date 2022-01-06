@@ -19,7 +19,7 @@ class Weibo:
 
     def deal_html_data(self, res):
         self.hot_list = []
-        res = BeautifulSoup(res, "lxml")
+        res = BeautifulSoup(res, "html.parser")
         # 遍历热搜的标签
         # #pl_top_realtimehot 根据id, > table > tbody > tr 逐层查找
 
