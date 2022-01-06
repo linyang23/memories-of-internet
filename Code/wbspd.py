@@ -68,7 +68,7 @@ class Weibo:
         print(len(website))
         if len(website) != len(rank):
             raise RuntimeError('testError')
-        lujing = '/Weibo/' + time[0][0:7] + '.md'
+        lujing = './Weibo/' + time[0][0:7] + '.md'
         readbook = ''
         with open(lujing, 'r', encoding="utf-8") as lines:
             for line in lines:
