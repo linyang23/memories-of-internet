@@ -98,9 +98,5 @@ class Weibo:
 if __name__ == '__main__':
     weibo = Weibo()
     flag = True
-    while flag:
-        try:
-            weibo.run()
-            flag = False
-        except:
-            print("@ @")
+    weibo.run()
+    flag = False
