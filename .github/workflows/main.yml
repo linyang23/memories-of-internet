@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --global user.email 287685124@qq.com
           git config --global user.name linyang23
-          git add
+          git add .
           git commit -m "update" -a
       - name: push
         uses: ad-m/github-push-action@master
