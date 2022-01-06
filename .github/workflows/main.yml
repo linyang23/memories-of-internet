@@ -35,7 +35,7 @@ jobs:
       - name: run python
         run: |
           cd Code
-          pip install re time requests BeautifulSoup datetime
+          pip install requests BeautifulSoup
           python wbspd.py
       - name: commit
         run: |
