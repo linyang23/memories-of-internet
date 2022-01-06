@@ -35,7 +35,7 @@ jobs:
       - name: run python
         run: |
           cd Code
-          pip install requests BeautifulSoup
+          pip install requests bs4
           python wbspd.py
       - name: commit
         run: |
